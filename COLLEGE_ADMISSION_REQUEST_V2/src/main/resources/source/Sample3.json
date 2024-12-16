@@ -1,0 +1,9 @@
+{
+  "firstName" : "Tony",
+  "lastName"  : "Stark",
+  "dateOfBirth" : "28-12-1985",
+  "email"     : "tony.stark@gmail.com",
+  "intermediateMarks" : 935,
+  "hallTicketNumber" : "123456790",
+  "interestedStream" :  "Computer Science"
+}
